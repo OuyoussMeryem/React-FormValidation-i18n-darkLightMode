@@ -1,0 +1,17 @@
+{
+    "title":"نموذج الاتصال",
+    "name":"اسمك",
+    "email":"عنوان بريدك الإلكتروني",
+    "message":"رسالة",
+    "checkBox":"هل توافق؟",
+    "button":"إرسال",
+    "success":"نجاح",
+    "right_message":"المعلومات صحيحة",
+    "error":"خطأ",
+    "error_nom":"حقل الاسم مطلوب",
+    "error_email_one":"حقل البريد الإلكتروني مطلوب",
+    "error_email_two":"صيغة البريد الإلكتروني غير صالحة، مثال=(exemple@gmail.com)",
+    "error_message_one":"حقل الرسالة مطلوب",
+    "error_message_two":"يحتاج إلى أكثر من 200 حرف",
+    "checkBox_error":"يجب التحقق من خانة الاختيار"
+}

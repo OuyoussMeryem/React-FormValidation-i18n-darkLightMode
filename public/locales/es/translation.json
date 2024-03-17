@@ -1,0 +1,17 @@
+{
+    "title":"Formulario de contacto",
+    "name":"Tu nombre",
+    "email":"Tu dirección de correo electrónico",
+    "message":"Mensaje",
+    "checkBox":"¿Aceptas?",
+    "button":"Enviar",
+    "success":"Éxito",
+    "right_message":"Las informaciones son correctas",
+    "error":"Error",
+    "error_nom":"El campo Nombre es obligatorio",
+    "error_email_one":"El campo email es obligatorio",
+    "error_email_two":"Formato de correo electrónico inválido, ejemplo=(ejemplo@gmail.com)",
+    "error_message_one":"El campo Mensaje es obligatorio",
+    "error_message_two":"Debe tener más de 200 caracteres",
+    "checkBox_error":"Es necesario marcar la casilla de verificación"
+}

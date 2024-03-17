@@ -1,0 +1,17 @@
+{
+    "title":"Formulaire de contact",
+    "name":"Votre nom",
+    "email":"Votre adresse e-mail",
+    "message":"Message",
+    "checkBox":"Acceptez-vous",
+    "button":"Soumettre",
+    "success":"Succès",
+    "right_message":"Les informations sont correctes",
+    "error":"Erreur",
+    "error_nom":"Le champ Nom est requis",
+    "error_email_one":"Le champ email est requis",
+    "error_email_two":"Format d'e-mail invalide, exemple=(exemple@gmail.com)",
+    "error_message_one":"Le champ Message est requis",
+    "error_message_two":"Il faut plus de 200 caractères",
+    "checkBox_error":"La case à cocher doit être cochée"
+}

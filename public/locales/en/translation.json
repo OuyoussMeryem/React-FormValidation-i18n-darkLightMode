@@ -1,0 +1,19 @@
+{
+    "title":"Contact Form",
+    "name":"Your name",
+    "email":"Your Email address",
+    "message":"Message",
+    "checkBox":"Do you accept",
+    "button":"Submit",
+    "success":"Success",
+    "right_message":"The informations are correct",
+    "error":"Error",
+    "error_nom":"Name field is required",
+    "error_email_one":"The email field is required",
+    "error_email_two":"Email format is invalid, exemple=(exemple@gmail.com)",
+    "error_message_one":"Message field is required",
+    "error_message_two":"It takes more than 200 characters",
+    "checkBox_error":"The checkBox needs to be checked"
+
+
+}
