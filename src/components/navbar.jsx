@@ -1,6 +1,6 @@
 import { useTheme } from "../themeContext"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { useEffect, useState } from "react";
+import { useEffect} from "react";
 import { useTranslation } from "react-i18next";
 export default function Navbar(){
     const {theme,toggleTheme}=useTheme();
@@ -19,13 +19,6 @@ export default function Navbar(){
     document.body.dir=i18n.dir();
    },[i18n,i18n.language])
 
-  //  const [selectedLanguage,setSelectedLanguage]=useState(languages[0].code)
-  
-  //  const changeLanguage=(lng)=>{
-  //   i18n.changeLanguage(lng);
-    
-    
-  //  }
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
@@ -49,11 +42,7 @@ export default function Navbar(){
                     ))}
                 </select>
             </div>
-        {/* <div>
-        
-       {languages.map((language)=>{return <button  className={language.code===i18n.language} key={language.code} onClick={()=>{
-        return changeLanguage(language.code)}}>{language.lang}</button>})}
-        </div> */}
+
     </nav> 
    
     
